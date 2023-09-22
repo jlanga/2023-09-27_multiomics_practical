@@ -8,3 +8,4 @@ dependencies:
   - bash_kernel
   - tzdata
   - csvkit
+  - tree
